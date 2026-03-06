@@ -16,4 +16,4 @@ footer    { grid-area: footer; }
 #### Things Java Script can do.
 
 - **It can calculate, manipulate and validate data.**
-- ***It can update and change both HTML and CSS.***
+- *It can update and change both HTML and CSS.*
