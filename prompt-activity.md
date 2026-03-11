@@ -36,11 +36,11 @@ Comments are lines of text that the computer completely ignores, yet they are so
 ### 📝 Think & Record
 
 * **What is the main reason developers add comments to their code?**
-  Good code tells you what is happening. Comments should explain why a specific decision was made, especially if the logic is complex or unusual.
+  ###Good code tells you what is happening. Comments should explain why a specific decision was made, especially if the logic is complex or unusual.
 
 
 * **What made the example of a vague comment difficult to understand?**
-  You would have to know the coding words and definitions to understand it. Unlike the other one that made it clear and obvious what it meant.
+  ###You would have to know the coding words and definitions to understand it. Unlike the other one that made it clear and obvious what it meant.
 
 
 
@@ -53,14 +53,14 @@ Comments are lines of text that the computer completely ignores, yet they are so
 ### 📝 Think & Record
 
 * **What symbols do you use for a single-line comment?**
-  // Comment comment comment
+  ###// Comment comment comment
 
 
   **What symbols allow a multi-line comment to wrap on your screen?**
-/* comment
-comment
-comment
-*/
+###/* comment
+###comment
+###comment
+###*/
 ---
 
 ## 🛠️ Section 2: Commenting Out Code
@@ -74,11 +74,11 @@ Sometimes, the best use of a comment is to temporarily hide code from the browse
 ### 📝 Think & Record
 
 * **How does commenting out code actually help you improve your code?**
- If you delete a line of code and then realize your new version is broken, you might forget exactly how the old version was written. Commenting keeps the "history" right there in front of you.
+###If you delete a line of code and then realize your new version is broken, you might forget exactly how the old version was written. Commenting keeps the "history" right there in front of you.
 
 
 * **What is the keyboard shortcut in VS Code to comment out a line of code? (Ask Gemini if you don't know!)**
- ctrl + /
+ ###ctrl + /
 
 
 
@@ -95,13 +95,13 @@ Just like putting your name and date on a paper in English class, professional s
 ### 📝 Think & Record
 
 * **List three things you should always include in your comment block:**
- Project
- Name
- Date
+ ###Project
+ ###Name
+ ###Date
 
 
 * **Why would a developer find a comment block helpful when reviewing a script they wrote six months ago?**
- It could help refresh yourself on what you typed and provide descriptions of why you wrote it the way you did.
+ ###It could help refresh yourself on what you typed and provide descriptions of why you wrote it the way you did.
 
 
 
