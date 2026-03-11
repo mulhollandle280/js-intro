@@ -58,9 +58,9 @@ Comments are lines of text that the computer completely ignores, yet they are so
 
   **What symbols allow a multi-line comment to wrap on your screen?**
 * /* comment
-comment
-comment
-*/
+* comment
+* comment
+* */
 ---
 
 ## 🛠️ Section 2: Commenting Out Code
